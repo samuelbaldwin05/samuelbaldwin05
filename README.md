@@ -1,8 +1,8 @@
-# Hi there! My name is Samuel Baldwin and I am a second year student at Northeastern University pursuing a data science degree.
-# I am currently working on my own small model using PyTorch.
+Hi there! My name is Samuel Baldwin and I am a second year student at Northeastern University pursuing a data science degree.
+I am currently working on my own small model using PyTorch.
 
-# 📫 How to reach me:
-# Email: baldwin.sam@northeastern.edu
+📫 How to reach me:
+Email: baldwin.sam@northeastern.edu
 <!--
 **samuelbaldwin05/samuelbaldwin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
