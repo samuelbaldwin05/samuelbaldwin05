@@ -1,4 +1,5 @@
 Hi there! My name is Samuel Baldwin and I am a second year student at Northeastern University pursuing a data science degree.
+I love soccer, backpacking, cats, scuba diving, and skiing!
 I am currently working on my own small model using PyTorch.
 
 📫 How to reach me:
