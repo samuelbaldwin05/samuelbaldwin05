@@ -2,9 +2,11 @@ Hi there! My name is Samuel Baldwin and I am a second year student at Northeaste
 I love soccer, backpacking, cats, scuba diving, and skiing!
 
 ### Skills
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript)
+- ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 - ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+
+
 📫 How to reach me: 
 
 Email: baldwin.sam@northeastern.edu
