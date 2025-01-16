@@ -1,7 +1,10 @@
 Hi there! My name is Samuel Baldwin and I am a second year student at Northeastern University pursuing a data science degree.
 I love soccer, backpacking, cats, scuba diving, and skiing!
 
-
+### Skills
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript)
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+- ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 📫 How to reach me: 
 
 Email: baldwin.sam@northeastern.edu
