@@ -2,6 +2,8 @@
 
 ### I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 
+### 🚧 Current Project: ChatGPT wrapper allowing users to input dataframes, and view and download a cleaned and editted dataframe, based on their chat inputs.
+
 ## Skills
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -21,7 +23,7 @@
 ![image](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 📬 How to reach me:
 
