@@ -1,8 +1,8 @@
 ### Hi there! 👋 My name is Samuel Baldwin (Sam) and I am a second year student at Northeastern University pursuing a data science degree.
 
-### I love soccer, backpacking, scuba diving, skiing, cats, and chess!
+I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 
-### 🚧 Current Project: ChatGPT wrapper allowing users to input dataframes, and view and download a cleaned and editted dataframe, based on their chat inputs.
+🚧 Current Project: ChatGPT wrapper allowing users to input dataframes, and view and download a cleaned and editted dataframe, based on their chat inputs.
 
 ## Skills
 
