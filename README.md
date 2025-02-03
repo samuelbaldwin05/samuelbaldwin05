@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Samuel Baldwin (Sam) and I am a second year student at Northeastern University pursuing a data science degree.
+### Hi there! 👋 My name is Samuel Baldwin and I am a second year student at Northeastern University pursuing a data science degree.
 
 I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 
