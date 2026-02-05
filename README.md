@@ -1,6 +1,18 @@
-### Hi there! 👋 
-My name is Samuel Baldwin and I am a third year student at Northeastern University pursuing a data science degree.
+This looks much better with the project context! A few small writing improvements:
+markdown### Hi there! 👋 
+My name is Sam Baldwin and I am a third-year student at Northeastern University pursuing a data science degree.
 I love soccer, backpacking, scuba diving, skiing, cats, and chess!
+
+## Current Projects
+I am currently a tech lead for Generate, Northeastern's product development studio, building StrideTrack, a shoe sensor app for track coaches.
+
+## Research
+I am involved in two research projects at Northeastern!
+
+The first analyzes brain activity based on whether viewers can see a speaker's mouth. We correlate 3D neuroimaging scans with video of the subject's POV, using CV models to determine if they see mouth movement during speech.
+
+The second involves denoising neutron reflectivity scattering data from Oak Ridge National Laboratory's particle accelerator to test nanomaterials for EV batteries. Building and testing diffusion models and VAEs to achieve the best results.
+
 
 ## Skills
 
