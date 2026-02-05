@@ -64,15 +64,3 @@ baldwin.sam@northeastern.edu
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbaldwin05) 
 https://github.com/samuelbaldwin05
-
----
-
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuelbaldwin05&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelbaldwin05&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
