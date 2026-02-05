@@ -1,5 +1,4 @@
-This looks much better with the project context! A few small writing improvements:
-markdown### Hi there! 👋 
+### Hi there! 👋 
 My name is Sam Baldwin and I am a third-year student at Northeastern University pursuing a data science degree.
 I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 
