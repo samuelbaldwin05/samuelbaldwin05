@@ -1,19 +1,25 @@
 ### Hi there! 👋 
-My name is Sam Baldwin and I am a third-year student at Northeastern University pursuing a data science degree.
+My name is **Sam Baldwin** and I am a third-year student at Northeastern University pursuing a BS in Data Science.
+
 I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 
-## Current Projects
-I am currently a tech lead for Generate, Northeastern's product development studio, building StrideTrack, a shoe sensor app for track coaches.
+---
 
-## Research
+## 🚀 Current Projects
+**Tech Lead @ [Generate](https://generatenu.com)** - Building **StrideTrack**, a shoe sensor app for track coaches 👟📱
+
+## 🔬 Research
 I am involved in two research projects at Northeastern!
 
-The first analyzes brain activity based on whether viewers can see a speaker's mouth. We correlate 3D neuroimaging scans with video of the subject's POV, using CV models to determine if they see mouth movement during speech.
+**🧠 Speech Perception & Brain Activity**  
+Analyzing brain activity based on whether viewers can see a speaker's mouth. Correlating 3D neuroimaging scans with subject POV video using CV models and custom RNN.
 
-The second involves denoising neutron reflectivity scattering data from Oak Ridge National Laboratory's particle accelerator to test nanomaterials for EV batteries. Building and testing diffusion models and VAEs to achieve the best results.
+**⚡ Neutron Reflectivity Data Analysis**  
+Denoising neutron reflectivity data from Oak Ridge National Laboratory's particle accelerator. Building diffusion models and VAEs to test nanomaterials for EV batteries.
 
+---
 
-## Skills
+## 💻 Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -47,5 +53,22 @@ The second involves denoising neutron reflectivity scattering data from Oak Ridg
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-📬 **How to reach me:**  
-Email: baldwin.sam@northeastern.edu
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baldwin.sam@northeastern.edu) baldwin.sam@northeastern.edu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) https://www.linkedin.com/in/baldwinsamuel/
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbaldwin05) https://github.com/samuelbaldwin05
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelbaldwin05&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbaldwin05&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
