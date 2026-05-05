@@ -6,15 +6,17 @@ I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 ---
 
 ## 🚀 Current Projects
-**Tech Lead @ [Generate](https://generatenu.com)** - Building **StrideTrack**, a shoe sensor app for track coaches 👟📱
+**Tech Lead @ [Generate](https://generatenu.com)** - Building **StrideTrack**, a shoe sensor app for track coaches
+
+**Personal Project** - Building **[Quoridor](https://quoridor.sambaldwin.dev)**, a fun multiplayer player vs player maze game 
 
 ## 🔬 Research
 I am involved in two research projects at Northeastern!
 
-**🧠 Speech Perception & Brain Activity**  
+**Speech Perception & Brain Activity**  
 Analyzing brain activity based on whether viewers can see a speaker's mouth. Correlating 3D neuroimaging scans with subject POV video using CV models and custom RNN.
 
-**⚡ Neutron Reflectivity Data Analysis**  
+**Neutron Reflectivity Data Analysis**  
 Denoising neutron reflectivity data from Oak Ridge National Laboratory's particle accelerator. Building diffusion models and VAEs to test nanomaterials for EV batteries.
 
 ---
@@ -64,3 +66,6 @@ baldwin.sam@northeastern.edu
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelbaldwin05) 
 https://github.com/samuelbaldwin05
+
+## My website!
+https://sambaldwin.dev
