@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-My name is **Sam Baldwin** and I am a third-year student at Northeastern University pursuing a BS in Data Science.
+My name is **Sam Baldwin** and I am a fourth-year student at Northeastern University pursuing a BS in Data Science.
 
 I love soccer, backpacking, scuba diving, skiing, cats, and chess!
 
